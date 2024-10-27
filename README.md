@@ -18,7 +18,7 @@ Nesta análise, foram testados cinco modelos de regressão:
 ## 2. Correlação entre Variáveis
 A tabela a seguir apresenta a matriz de correlação entre as variáveis:
 
-
+![Matriz de Correlação](https://i.ibb.co/tQgCZr2/Captura-de-Tela-2024-10-26-a-s-21-09-28.png)
 
 ### Observações da Correlação
 - O status de fumante apresentou uma correlação alta e positiva com os encargos (0.710), indicando que fumar tende a aumentar os custos médicos.
@@ -43,7 +43,7 @@ Para o modelo de **Regressão Linear**, foram calculadas as seguintes métricas 
 
 Abaixo, o gráfico de dispersão entre as previsões do modelo de Regressão Linear e os valores reais dos encargos médicos. A linha de identidade mostra onde as previsões coincidem com os valores reais, evidenciando a precisão do modelo.
 
-** graficos aqui**
+![Previsões vs. Valores Reais](https://i.ibb.co/x7ZZxBV/graf-reg.png)
 
 ## 5. Conclusões
 - O modelo de **Regressão Linear** foi o mais eficaz para prever custos médicos, capturando 92,1% da variabilidade nos dados, o que sugere uma forte linearidade entre as variáveis.
